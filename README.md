@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polineniavinash&theme=dark&layout=compact)
 
 <!-- GitHub Activity Graph -->
-![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=polineniavinash&theme=react-dark)
+[![Avinash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=polineniavinash&theme=react-dark&hide_border=true)](https://github.com/polineniavinash/github-readme-activity-graph)
 
 <!-- Footer Image or Animation -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
